@@ -5,7 +5,7 @@ Artifact implementing:
 1. Modeling 
 2. Trace analysis 
 3. TLTR
-4. vPLC-style deterministic execution
+4. vPLC execution
 5. Recovery classification 
 
 ## Build
