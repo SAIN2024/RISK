@@ -1,6 +1,6 @@
 # RISK
 
-Artifact implementing:
+Artifacts.
 
 1. Modeling 
 2. Trace analysis 
